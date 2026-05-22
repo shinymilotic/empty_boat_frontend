@@ -20,7 +20,13 @@
                     <li><a href="/basic-svelte/reactivity/universal-reactivity">Universal reactivity</a></li>
                 </ul>
             </li>
-            <li>Props</li>
+            <li>Props
+                <ul>
+                    <li><a href="/basic-svelte/props/declaring-props">Declaring props</a></li>
+                    <li><a href="/basic-svelte/props/default-values">Default values</a></li>
+                    <li><a href="/basic-svelte/props/spread-props">Spread props</a></li>
+                </ul>
+            </li>
             <li>Logic</li>
             <li>Events</li>
             <li>Bindings</li>
