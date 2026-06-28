@@ -1,1 +1,1 @@
-<a href='tutorial'>Tutorial</a>
+<a href="register">Register</a>
